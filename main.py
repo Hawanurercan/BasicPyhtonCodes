@@ -1,3 +1,4 @@
+### PythonProject in input-for-if_else-range-print
 
 ### 1-	İki sayının (a,b) durumuna göre şu işlemi yapacaktır. a>b ise 2*a+b-3, b>a ise 2*b+a-3, a=b ise a*b yapacaktır. Bu işlemi yapan programı yazınız? italik metin:
 
